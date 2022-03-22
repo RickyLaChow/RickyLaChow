@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <center>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickyLaChow&show_icons=true&theme=merko) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickyLaChow&show_icons=true&theme=onedark) 
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickylachow&langs_count=10&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickylachow&langs_count=10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 </center>
