@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciao 👋
 
 <!--
 **RickyLaChow/RickyLaChow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickyLaChow&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickyLaChow&show_icons=true&theme=merko) 
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickylachow&langs_count=10&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+</center>
