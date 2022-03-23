@@ -1,24 +1,8 @@
-### Ciao 👋
+### Ciao, benvenuto nel mio profilo 👋
 
-<!--
-**RickyLaChow/RickyLaChow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📚 I’m currently learning Java
+- 🦊 Team Leader di [PrymaCommunity](https://pages.github.com/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<center>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickyLaChow&show_icons=true&count_private=true) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickyLaChow&show_icons=true&theme=onedark) 
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickylachow&langs_count=10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-</center>
