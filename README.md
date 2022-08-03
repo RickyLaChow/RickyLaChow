@@ -1,9 +1,10 @@
 ### Ciao, benvenuto nel mio profilo 👋
 
 
-- 📚 I’m currently learning Java & NextJS 
+- 📚 I’m currently learning Java & NextJS
+- 🧩 I'm currently using C# for make a Unity Game!  
 - 🦊 Team Leader di [PrymaCommunity](https://www.prymacommunity.it/) 
-- ✨ [Portfolio](http://riccardomoi.it/) 
+- ✨ [Portfolio](http://riccardomoi.it/) (I'm working on a second version)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickyLaChow&show_icons=true&count_private=true) 
 
