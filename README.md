@@ -6,8 +6,6 @@
 - 🦊 Team Leader di [PrymaCommunity](https://www.prymacommunity.it/) 
 - ✨ [Portfolio](http://riccardomoi.it/) (Version 2 available now)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickyLaChow&show_icons=true&count_private=true) 
-
 <hr>
 
 ### Languages and Tools:
